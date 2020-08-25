@@ -90,6 +90,7 @@ button {
   margin-top: 1rem;
   box-shadow:
     0px 5px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
 }
 
 button:active {
@@ -139,6 +140,7 @@ button:active {
 
   button {
     height: 20%;
+    padding-bottom: 2em;
   }
 
 
